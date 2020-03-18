@@ -8,7 +8,9 @@
   Customization of any desired effect can be achieved by writing a plugin based on this framework.
 </p>
 
-### [Full-featured app based on this library](https://awehook.github.io/react-mindmap)
+### [Full-featured desktop app based on this library](https://github.com/awehook/blink-mind-package)
+
+### [Web app based on this library](https://awehook.github.io/react-mindmap)
 
 ### [A mind map vscode extension based on this library](https://github.com/awehook/vscode-blink-mind)
 
